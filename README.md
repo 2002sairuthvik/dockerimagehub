@@ -1,1 +1,1 @@
-# dockerimagehub
+# This project shows how to work with githubactions
